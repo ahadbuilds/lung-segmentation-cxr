@@ -235,24 +235,6 @@ git clone https://github.com/ahadbuilds/lung-segmentation-cxr.git
 cd lung-segmentation-cxr
 ```
 
-## Install Dependencies
-
-```bash
-pip install -r requirements.txt
-```
-
-## Launch Notebook
-
-```bash
-jupyter notebook
-```
-
-Open:
-
-```text
-notebook.ipynb
-```
-
 ---
 
 # Workflow
