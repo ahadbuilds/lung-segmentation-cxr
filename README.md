@@ -1,4 +1,4 @@
-# 🫁 Lung Segmentation from Chest X-Rays using Deep Learning
+# Lung Segmentation from Chest X-Rays using Deep Learning
 
 ### Automatic Medical Image Segmentation with U-Net, Transfer Learning, Ensemble Learning & Explainable AI
 
@@ -47,41 +47,31 @@ This project automates lung segmentation through an end-to-end workflow includin
 
 ## Sample Chest X-ray & Ground Truth
 
-```text
-images/sample-xray.png
-```
+![Sample Chest X-ray & Ground Truth](images/sample-xray.png)
 
 ---
 
 ## Image Preprocessing Pipeline
 
-```text
-images/preprocessing-pipeline.png
-```
+![Image Preprocessing Pipeline](images/preprocessing-pipeline.png)
 
 ---
 
 ## U-Net Prediction Results
 
-```text
-images/predictions.png
-```
+![U-Net Prediction Results](images/predictions.png)
 
 ---
 
 ## Grad-CAM Explainability
 
-```text
-images/gradcam.png
-```
+![Grad-CAM Explainability](images/gradcam.png)
 
 ---
 
 ## Final Results Dashboard
 
-```text
-images/results-dashboard.png
-```
+![Results Dashboard](images/results-dashboard.png)
 
 ---
 
